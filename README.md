@@ -1,2 +1,2 @@
-# SpamClassification-NaiveBayes
-Spam classification based on Naive Bayes
+# TextClassification-NaiveBayes
+Text classification based on Naive Bayes
